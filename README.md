@@ -22,3 +22,14 @@ Navigate to the project directory:
 Install the required dependencies:
 - npm install
 
+Usage
+The index.js file contains the automation script. You can modify the URL and the actions performed in the script as needed.
+
+Running the Project
+To execute the Playwright script, run the following command in your terminal:
+- node index.js
+
+After running the script, a screenshot named example.png will be saved in the project directory.
+
+
+
